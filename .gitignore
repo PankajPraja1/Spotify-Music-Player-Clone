@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VS Code workspace settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+
+# Package folders (only if you add tooling later)
+node_modules/
+
+# Build outputs (only if you add tooling later)
+dist/
+build/
+coverage/
